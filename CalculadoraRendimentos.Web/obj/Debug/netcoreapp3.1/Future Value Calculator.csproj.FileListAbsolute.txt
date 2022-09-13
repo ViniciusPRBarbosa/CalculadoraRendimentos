@@ -1,0 +1,72 @@
+G:\lab_asp\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\lab_asp\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\appsettings.json
+G:\lab_asp\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\libman.json
+G:\lab_asp\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.exe
+G:\lab_asp\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.deps.json
+G:\lab_asp\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.runtimeconfig.json
+G:\lab_asp\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.runtimeconfig.dev.json
+G:\lab_asp\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.dll
+G:\lab_asp\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.pdb
+G:\lab_asp\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.Views.dll
+G:\lab_asp\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.Views.pdb
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.csproj.AssemblyReference.cache
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.AssemblyInfoInputs.cache
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.AssemblyInfo.cs
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.csproj.CoreCompileInputs.cache
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.MvcApplicationPartsAssemblyInfo.cache
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.RazorAssemblyInfo.cache
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.RazorAssemblyInfo.cs
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\staticwebassets\Future Value Calculator.StaticWebAssets.Manifest.cache
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\staticwebassets\Future Value Calculator.StaticWebAssets.xml
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\scopedcss\bundle\Future Value Calculator.styles.css
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.TagHelpers.input.cache
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.TagHelpers.output.cache
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.RazorCoreGenerate.cache
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.RazorTargetAssemblyInfo.cache
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.RazorTargetAssemblyInfo.cs
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.Views.pdb
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.dll
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.pdb
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.genruntimeconfig.cache
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.csproj.CopyComplete
+G:\lab_asp\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\libman.json
+C:\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.exe
+C:\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.deps.json
+C:\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.runtimeconfig.json
+C:\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.runtimeconfig.dev.json
+C:\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.dll
+C:\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.pdb
+C:\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.Views.dll
+C:\Future Value Calculator\Future Value Calculator\bin\Debug\netcoreapp3.1\Future Value Calculator.Views.pdb
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.csproj.AssemblyReference.cache
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.AssemblyInfoInputs.cache
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.AssemblyInfo.cs
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.csproj.CoreCompileInputs.cache
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.RazorAssemblyInfo.cache
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.RazorAssemblyInfo.cs
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\staticwebassets\Future Value Calculator.StaticWebAssets.Manifest.cache
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\staticwebassets\Future Value Calculator.StaticWebAssets.xml
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\scopedcss\bundle\Future Value Calculator.styles.css
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.TagHelpers.input.cache
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.TagHelpers.output.cache
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.RazorCoreGenerate.cache
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.RazorTargetAssemblyInfo.cache
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.RazorTargetAssemblyInfo.cs
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.Views.pdb
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.dll
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.pdb
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.genruntimeconfig.cache
+C:\Future Value Calculator\Future Value Calculator\obj\Debug\netcoreapp3.1\Future Value Calculator.csproj.CopyComplete
